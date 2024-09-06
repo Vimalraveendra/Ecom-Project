@@ -1,4 +1,4 @@
-package com.example.ecom_project.controller;
+package com.example.ecom_project.model;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
